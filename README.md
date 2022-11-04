@@ -5,5 +5,6 @@
 Para rodar tem que baixar :
 
 ...
-node install react
+node  app.js
+
 ...
